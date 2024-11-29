@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.stickyNav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+
+    background-color: rgba(0, 0, 0, 0.95);
+    color: white;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.12) !important;
+}
+
+.content {
+    padding-top: 72px;
+}
+
+.multi-line-p-tag {
+    white-space: pre-line; /* This will preserve line breaks in the text */
+}
+
+section {
+    max-width: 64rem; /* equivalent to Tailwind's max-w-4xl */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5rem;
+    padding: 3rem 3rem;
+}
+
+section h2 {
+    margin-bottom: 2rem;
+}
