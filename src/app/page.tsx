@@ -8,6 +8,8 @@ import {
   FaApple,
 } from "react-icons/fa";
 
+import MalvonLight from "/Malvon-Light.png";
+
 export default function Home() {
   const reasons = [
     {
@@ -53,7 +55,7 @@ export default function Home() {
         </p>
 
         <Image
-          src={/Malvon-Light.png}
+          src={MalvonLight}
           alt="Malvon Logo"
           width={200}
           height={160}
