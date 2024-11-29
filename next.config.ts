@@ -6,7 +6,6 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds: true,
   },
   basePath: "/malvon-browser",
-  output: "export", // <=== enables static exports
 };
 
 module.exports = nextConfig;
