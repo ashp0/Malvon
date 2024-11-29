@@ -53,7 +53,7 @@ export default function Home() {
         </p>
 
         <Image
-          src="/Malvon-Light.png"
+          src={/Malvon-Light.png}
           alt="Malvon Logo"
           width={200}
           height={160}
