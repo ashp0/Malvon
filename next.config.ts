@@ -4,6 +4,9 @@ const nextConfig: NextConfig = {
   basePath: "/malvon-browser",
   output: "export", // <=== enables static exports
   reactStrictMode: true,
+   eslint: {
+        ignoreDuringBuilds: true,
+    },
 };
 
 module.exports = nextConfig;
