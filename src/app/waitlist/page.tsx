@@ -14,7 +14,7 @@ export default function Waitlist() {
 
         <LinkButton
           name="Join the waitlist"
-          href="https://7zhreggopbq.typeform.com/to/fatg3pYC"
+          href="https://app.youform.com/forms/bwwl0dko"
         />
       </section>
     </div>
