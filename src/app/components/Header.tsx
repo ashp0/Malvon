@@ -10,7 +10,7 @@ const Header = () => {
   const menus = [
     { title: "Waitlist", href: "/waitlist" },
     { title: "Home", href: "/" },
-    { title: "Contact", href: "/contact" },
+    { title: "Docs", href: "https://github.com/ashp0/malvon-website/wiki" },
   ];
 
   const toggleMobileMenu = () => {
