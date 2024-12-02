@@ -1,0 +1,10 @@
+Malvon — 1.1
+
+## New Features
+- No more window buttons!
+- Background Update Checking!
+- Redesigned Updater Application
+
+## Bugs (FIXED)
+- Closing tab results in multiple tab selections
+- Spacing with search bar and tab bar is evenly distributed
