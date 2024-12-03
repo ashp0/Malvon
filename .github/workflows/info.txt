@@ -4,6 +4,7 @@ Malvon — 1.1
 - No more window buttons!
 - Background Update Checking!
 - Redesigned Updater Application
+- Less distracting progress bar
 
 ## Bugs (FIXED)
 - Closing tab results in multiple tab selections
