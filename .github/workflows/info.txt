@@ -1,4 +1,5 @@
 Malvon — 0.0.1
+This update includes a lot more changes than those mentioned below.
 
 ## New Features
 - Horizontal Compact Toolbar
@@ -9,3 +10,4 @@ Malvon — 0.0.1
 ## Bugs (FIXED)
 - Tab Group colors are displayed by default
 - Tab closing logic updated
+- Websites cannot override the Command-T, Command-W and Command-L shortcuts anymore.
