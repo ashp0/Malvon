@@ -1,11 +1,11 @@
-Malvon — 1.1
+Malvon — 0.0.1
 
 ## New Features
-- No more window buttons!
-- Background Update Checking!
-- Redesigned Updater Application
-- Less distracting progress bar
+- Horizontal Compact Toolbar
+- Search Suggestions and history database
+- New tab start page
+- Smoother closing/opening animations
 
 ## Bugs (FIXED)
-- Closing tab results in multiple tab selections
-- Spacing with search bar and tab bar is evenly distributed
+- Tab Group colors are displayed by default
+- Tab closing logic updated
