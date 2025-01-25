@@ -1,1 +1,1 @@
-https://ashp0.github.io/malvon-website/
+https://ashp0.github.io/malvon/
